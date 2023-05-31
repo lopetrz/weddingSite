@@ -1,0 +1,43 @@
+[view]
+other = "Vedi"
+[code]
+other = "Code"
+[viewAll]
+other = "Vedi tutto"
+[letsChat]
+other = "Contattaci"
+[name]
+other = "Nome"
+[email]
+other = "Email"
+[subject]
+other = "Oggetto"
+[message]
+other = "Messaggio"
+[send]
+other = "Invia"
+[thanksForYourEmail]
+other = "Grazie per la tua mail!"
+[minuteRead]
+one = "Un minuto di lettura"
+other = "{{.Count}} Minuti di lettura"
+[latestPosts]
+other = "Ultimi Articoli"
+[enableJavaScript]
+other = "Please enable JavaScript to view comments powered by"
+[404Message]
+other = "WHAT DID YOU DO?!"
+[themeDevelopedBy]
+other = "Theme developed by"
+[copyright]
+other = "Copyright"
+[facebook]
+other = "Facebook"
+[github]
+other = "GitHub"
+[linkedin]
+other = "LinkedIn"
+[twitter]
+other = "Twitter"
+[download]
+other = "Download"
