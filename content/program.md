@@ -1,16 +1,11 @@
 ---
-title: "L'evento"
+title: "Il Programma"
 date: 2023-04-17T20:45:41+02:00
-draft: true
+draft: false
 ---
 
+Vi aspettiamo __Sabato 23 Settembre 2023__ alle ore __10:30__
 
-__Lorenzo__ e __Lucia__ annunciano il loro matrimonio
+presso il Santuario Madonna del Pilone.
 
-Sabato __23 Settembre 2023__ alle ore __10:30__
-
-presso il Santuario di Madonna del Pilone.
-
-A seguire, gli Sposi saranno lieti di invitare 
-
-parenti e amici a festeggiare presso Villa Fiorita.
+A seguire la festa continuerà nella cornice di Villa Fiorita.

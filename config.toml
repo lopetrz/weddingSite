@@ -10,7 +10,7 @@ googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = "IL SITO DEL NOSTRO MATRIMONIO"
+  tagline = "Questo matrimonio s´ha da fare!"
   author = "Lorenzo Petrozzino"
   description = "Join the celebrations"
   logoBig = "/images/LogoLL_v2.png"
@@ -49,22 +49,18 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   lazyloading = true
 
 [[menu.main]]
-  name = "L'EVENTO"
+  name = "PROGRAMMA"
   url  = "/#program"
   weight = 1
 [[menu.main]]
-  name = "I LUOGHI"
+  name = "LUOGHI"
   url  = "/#places"
   weight = 2
-#[[menu.main]]
-#  name = "I CONTATTI"
-#  url  = "/#contact"
-#  weight = 3
 [[menu.main]]
-  name = "I CONTATTI"
+  name = "CONTATTI"
   url  = "/#facci_saper"
-  weight = 4
+  weight = 3
 [[menu.man]]
   name = "GALLERIA"
   url  = "/#gallery"
-  weight = 5
+  weight = 4

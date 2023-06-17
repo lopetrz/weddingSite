@@ -7,5 +7,5 @@ color = ""
 link1 = ""
 link2 = ""
 projectDate = ""
-draft = true
+draft = false
 +++
