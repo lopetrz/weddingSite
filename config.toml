@@ -1,6 +1,6 @@
 title = "Matrimonio Lorenzo e Lucia"
-baseURL = "https://lorieluciwedding.com"
-tags = ["portfolio", "web design", "blog"]
+baseURL = "https://matrimoniolorenzolucia.it"
+tags = [""]
 languageCode = "it-IT"
 config = "config.toml"
 theme = "osprey"
